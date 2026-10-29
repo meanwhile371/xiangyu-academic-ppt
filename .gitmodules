@@ -1,0 +1,6 @@
+[submodule "vendor/nature-skills"]
+	path = vendor/nature-skills
+	url = https://github.com/Yuan1z0825/nature-skills.git
+[submodule "vendor/ppt-master"]
+	path = vendor/ppt-master
+	url = https://github.com/hugohe3/ppt-master.git

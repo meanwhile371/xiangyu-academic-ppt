@@ -1,0 +1,38 @@
+{
+  "schema": 1,
+  "distribution": "Complete unmodified upstream Git submodules; original authorship and nested licenses retained.",
+  "upstreams": [
+    {
+      "name": "ppt-master",
+      "path": "vendor/ppt-master",
+      "repository": "https://github.com/hugohe3/ppt-master.git",
+      "commit": "625e05a95ee0bb74435b996d475e61862573bd31",
+      "tree": "8387bf71fa18fb591cfdad6426d3c129e39ae4dd",
+      "tracked_files": 13131,
+      "license": "MIT",
+      "entrypoints": [
+        "skills/ppt-master/SKILL.md",
+        "skills/ppt-master/scripts/attribution_guard.py",
+        "skills/ppt-master/scripts/svg_to_pptx.py",
+        "LICENSE"
+      ]
+    },
+    {
+      "name": "nature-skills",
+      "path": "vendor/nature-skills",
+      "repository": "https://github.com/Yuan1z0825/nature-skills.git",
+      "commit": "4a04b953c13c57adc51e202ce296597f00d29d67",
+      "tree": "ca70d34a70c2dde8d03763b49c5c97f19657b298",
+      "tracked_files": 884,
+      "license": "Apache-2.0",
+      "entrypoints": [
+        "skills/nature-paper2ppt/SKILL.md",
+        "skills/nature-image2ppt/SKILL.md",
+        "skills/nature-reader/SKILL.md",
+        "skills/nature-figure/SKILL.md",
+        "skills/nature-shared/SKILL.md",
+        "LICENSE"
+      ]
+    }
+  ]
+}

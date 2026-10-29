@@ -1,0 +1,3 @@
+name,path,repository,commit,tree,tracked_files,license
+ppt-master,vendor/ppt-master,https://github.com/hugohe3/ppt-master.git,625e05a95ee0bb74435b996d475e61862573bd31,8387bf71fa18fb591cfdad6426d3c129e39ae4dd,13131,MIT
+nature-skills,vendor/nature-skills,https://github.com/Yuan1z0825/nature-skills.git,4a04b953c13c57adc51e202ce296597f00d29d67,ca70d34a70c2dde8d03763b49c5c97f19657b298,884,Apache-2.0

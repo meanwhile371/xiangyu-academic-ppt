@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!.env.example
+*.log
+*.aux
+*.out
+*.synctex.gz
+.DS_Store
+validation-local/
+private/
+output/
+*.pptx
+*.pdf
+*.zip
